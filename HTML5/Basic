@@ -1,0 +1,18 @@
+==== HTML Elements ====>>>
+Html elements describe that how to display the content in the web browser.
+Html elements are not case sensitive: <P> means the same as <p>.
+Html element are <body>,<h1>,<p>,<br>,<div> etc.
+
+==== HTML Atribute ====>>>
+Html attribute define the additional information of the elements.
+Html attribute is always comes name:value pair.
+Some Html attributes are src,href,alt,width,height,title etc.
+<img src="img_girl.jpg" width="500" height="600"  alt="Girl with a jacket">
+<a href="https://video-player-b88c0.web.app/">Video Player</a>
+<p title="I'm a tooltip">This is a paragraph.</p>
+By two ways to specify the URL in the src attribute:
+Absolute URL - src="https://www.w3schools.com/images/img_girl.jpg".
+Relative URL - src="img_girl.jpg" or src="/images/img_girl.jpg".
+Tip: It is almost always best to use relative URLs. They will not break if you change domain.
+
+==== HTML Formatting Elements ====>>>
