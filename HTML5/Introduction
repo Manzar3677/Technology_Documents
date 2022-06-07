@@ -1,1 +1,12 @@
 Html stands for Hyper text markrup language. It is structure which is used for creating a web page.
+======== HTML Basic Structure =====
+  <!DOCTYPE html>
+  <html>
+   <head>
+     <meta charset="UTF-8">
+     <title> HTML web page </title>
+   <head>
+   <body>
+     <h1>Welcome to Html page</h1>
+   </body>
+  </html>
